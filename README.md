@@ -57,4 +57,4 @@ Persistent memory — AI assistants that remember you across sessions, within pr
 World models — architectures that learn predictive simulations of physical environments, bridging AI and robotics.
 Energy-aware AI — compute economics forcing greener training and inference.
 Personalized small models — fine-tuned, private models tailored to individuals and organizations.
-
+Im on readme
