@@ -51,6 +51,8 @@ Evaluations & red-teaming — standardized benchmarks for dangerous capabilities
 Governance — governments worldwide are moving from voluntary guidelines toward binding frameworks for frontier AI development.
 9. What's Next: Trends to Watch
 Agents that manage agents — orchestration layers that hire, supervise, and audit sub-agents.
+
+learning git fetch
 Persistent memory — AI assistants that remember you across sessions, within privacy limits.
 World models — architectures that learn predictive simulations of physical environments, bridging AI and robotics.
 Energy-aware AI — compute economics forcing greener training and inference.
